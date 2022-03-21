@@ -20,3 +20,4 @@ Users are able to filter data but inputting a criteria into the filter fields, a
 
 ## Summary
 
+It is currently difficult for the user to know all of the options for filtering. A further optimization would be to have a drop down menu for users to know all of their choices for filtering. Additionally, it may be helpful to have a "clear filter" button. 
